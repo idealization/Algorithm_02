@@ -36,11 +36,11 @@
 
 ### Training with Training loss
 
-![image](https://user-images.githubusercontent.com/52741902/121079903-badf5900-c815-11eb-9368-b649a0455a0f.png)
+![image](https://user-images.githubusercontent.com/52741902/121080759-d0a14e00-c816-11eb-9ffe-6e38514ac7c4.png)
 
 ### Test Accuracy
 
-![image](https://user-images.githubusercontent.com/52741902/121079961-c7fc4800-c815-11eb-9c0e-e55e514735ae.png)
+![image](https://user-images.githubusercontent.com/52741902/121080780-d9921f80-c816-11eb-965f-22ceb0cccfb8.png)
 
 ### Images and corresponding probability that predicted Right
 
@@ -58,11 +58,11 @@
 
 ### Training with Training loss
 
-![image](https://user-images.githubusercontent.com/52741902/121080118-fbd76d80-c815-11eb-9a50-2e6d73c83004.png)
+![image](https://user-images.githubusercontent.com/52741902/121080815-e44cb480-c816-11eb-8de2-85bf7506f556.png)
 
 ### Test Accuracy
 
-![image](https://user-images.githubusercontent.com/52741902/121080148-0560d580-c816-11eb-88b2-86c23ddfbabb.png)
+![image](https://user-images.githubusercontent.com/52741902/121080845-edd61c80-c816-11eb-93a0-bc21652381b5.png)
 
 ### Images and corresponding probability that predicted Right
 
