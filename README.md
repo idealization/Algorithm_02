@@ -1,8 +1,8 @@
 # Algorithm_02
 
-1. [MODEL 1](#MODEL-1-:-3-Layers-with-1-Convolution-layer)
-2. [MODEL 2](#MODEL-2-:-5-Layers-with-2-Convolution-layer)
-3. [MODEL 3](#MODEL-3-:-7-Layers-with-4-Convolution-layer)
+1. [MODEL 1](#model-1)
+2. [MODEL 2](#model-2)
+3. [MODEL 3](#model-3)
 
 ---
 
